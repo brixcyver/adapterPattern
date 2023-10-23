@@ -27,4 +27,5 @@ SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard
 
 UML Diagram and codes are all provided in this repository. Hope this can help you in the future.
 
-![Adapter Pattern UML](https://github.com/brixcyver/adapterPattern/assets/142380216/d4c87711-6f6b-448b-bcbe-f25424d6c8c3)
+![Adapter Pattern UML](https://github.com/brixcyver/adapterPattern/assets/142380216/fd09d2ae-7853-48be-b8ca-16ba535e2320)
+
